@@ -121,7 +121,7 @@ Rover Science Data Analysis System</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Space-Science-ML-Papers/blob/master/sml(61).pdf" style="text-decoration:none;">Fast Pixel/Part Selection with Sparse Eigenvectors</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Space-Science-ML-Papers/blob/master/sml(62).pdf" style="text-decoration:none;">Deep Variational Canonical Correlation Analysis</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Space-Science-ML-Papers/blob/master/sml(62).pdf" style="text-decoration:none;">The Final Frontier: Deep Learning in Space</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Space-Science-ML-Papers/blob/master/sml(63).pdf" style="text-decoration:none;">From Protocol Specification to Statechart to Implementation</a></li>                              
 
@@ -283,7 +283,7 @@ Rock and Soil Composition Extracted from the Literature</a></li>
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Space-Science-ML-Papers/blob/master/sml(134).pdf" style="text-decoration:none;">Interpretable Discovery in Large Image Data Sets</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Space-Science-ML-Papers/blob/master/sml(135).pdf" style="text-decoration:none;">Understanding disentangling in Beta-VAE</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Space-Science-ML-Papers/blob/master/sml(135).pdf" style="text-decoration:none;">The Challenge of Machine Learning in Space Weather: Nowcasting and Forecasting</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Space-Science-ML-Papers/blob/master/sml(136).pdf" style="text-decoration:none;">Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Space-Science-ML-Papers/blob/master/sml(136).pdf" style="text-decoration:none;">Integrating Machine Learning into Space Operations</a></li>
  </ul>
