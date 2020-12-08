@@ -50,7 +50,7 @@ Adaptive sampling for rover x-ray lithochemistry</a></li>
 Opportunity Rover</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Space-Science-ML-Papers/blob/master/sml(24).pdf" style="text-decoration:none;">Deep Convolutional Inverse Graphics Network</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Space-Science-ML-Papers/blob/master/sml(24).pdf" style="text-decoration:none;">Machine learning in space: extending our reach</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Space-Science-ML-Papers/blob/master/sml(25).pdf" style="text-decoration:none;">Agile science operations:
 A new approach for primitive bodies exploration</a></li>                              
